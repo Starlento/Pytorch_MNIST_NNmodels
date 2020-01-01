@@ -1,3 +1,6 @@
 /.idea
 /.ipynb_checkpoints
 /dc_img
+/seal_detector/seal_image
+/seal_detector/training_data*
+Untitled.ipynb
